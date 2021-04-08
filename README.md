@@ -1,3 +1,5 @@
+#ML Dl Algorithm From Scratch
+
 Implementation of ML and DL algorithms from scratch using vanilla Python and Numpy library.
 
 The list of algorithms implemented are :
