@@ -1,4 +1,4 @@
-# ML DL Algorithm From Scratch
+# ML DL Algorithms From Scratch
 
 Implementation of ML and DL algorithms from scratch using vanilla Python and Numpy library.
 
